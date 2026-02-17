@@ -36,8 +36,8 @@ Profit per turnip = Sell Price – Buy Price
 Weekly profit = Profit × 1000 turnips  
 
 ### Pivot Table: Weekly Profit Summary
+<img src="screenshots/Turnip_Profit_by_Week.png" width="700">
 
-![Turnip Pivot](screenshots/Turnip_Profit_by_Week.png.png)
 
 ### Key Insights
 
@@ -55,8 +55,7 @@ This mirrors real-world speculative trading and timing strategies.
 I categorized creatures by rarity and calculated total revenue contribution using VLOOKUP and SUMIF.
 
 ### Pivot Table: Revenue by Rarity
-
-![Revenue Pivot](screenshots/Revenue_by_Fish_Rarity%20.png.png)
+<img src="screenshots/Revenue_by_Fish_Rarity.png" width="700">
 
 ### Key Insights
 
@@ -69,8 +68,7 @@ I categorized creatures by rarity and calculated total revenue contribution usin
 ## Combined Weekly Revenue Summary
 
 The final worksheet aggregates turnip trading profit and fishing revenue to compare overall strategy performance.
-
-![Final Summary](screenshots/Weekly_Profit_Summary.png.png)
+<img src="screenshots/Weekly_Profit_Summary.png" width="700">
 
 ---
 
@@ -85,5 +83,6 @@ Although game-based, this project reflects real-world applications such as:
 
 This project my utilzing Excel to transform data from the
 game animal crossing into simple financial insights.
+
 
 
